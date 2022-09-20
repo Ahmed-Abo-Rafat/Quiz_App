@@ -2,7 +2,7 @@
 # Quiz_App
 It is a Quiz App about "Part of Speech" to show you the word and choose this worde is (noun, verb, adjective,....) and use countdown for each qustion if it finished, will go to another qustion and after finished test you will give you the rank and restart button to restart the Quiz.
 
-## Website Link:  
+## Live Demo:  
    - Link: https://ahmed-abo-rafat.github.io/NewsFlash/
 
 ## Setup
